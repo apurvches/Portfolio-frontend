@@ -1,0 +1,3 @@
+{"name":"portfolio-api","private":true,"version":"1.0.0","type":"module",
+"scripts":{"start":"node index.js"},"engines":{"node":">=18"},
+"dependencies":{"cors":"^2.8.5","dotenv":"^16.4.5","express":"^4.21.0","express-rate-limit":"^7.4.0","helmet":"^8.0.0","mysql2":"^3.11.0","zod":"^3.23.8"}}
